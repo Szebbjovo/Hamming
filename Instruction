@@ -1,0 +1,11 @@
+As u can see its a c++ code.
+How to use?
+it`s esey
+
+1. Enter the 4 data bits. 
+//the program will generate 3 parity bits after this
+2. enter the output (that 7 digits), but with a mistake. So the algorithm can find where is an issue, and it will print out 
+corrected version.
+
+
+
